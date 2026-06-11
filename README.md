@@ -4,5 +4,5 @@
 :books: **Autodidacta**
 :pencil: **Aprendiendo desarrollo móvil y de escritorio**
 ### Puedes contactarme a través de 
-:email : 
+:letter : 
 -->
