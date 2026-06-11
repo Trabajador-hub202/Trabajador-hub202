@@ -3,6 +3,5 @@
 :computer: **Desarrollador de software: Python y Java**
 :books: **Autodidacta**
 :pencil: **Aprendiendo desarrollo móvil y de escritorio**
-### Puedes contactarme a través de 
-:letter : 
--->
+
+
