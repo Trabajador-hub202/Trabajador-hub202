@@ -1,7 +1,7 @@
 ## Hi there 👋
 :student: **Estudiante de Licenciatura en Informática Educativa** 
-:computer: **Desarrollador de software: Python y Java**
+:computer: **Desarrollador móvil y de escritorio**
 :books: **Autodidacta**
-:pencil: **Aprendiendo desarrollo móvil y de escritorio**
+:pencil: **Aprendiendo constantemente Flutter y Python**
 
 
