@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hola👋
 :student: **Estudiante de Licenciatura en Informática Educativa** 
-:computer: **Desarrollador móvil y de escritorio**
+:computer: **Desarrollador móvil Flutter**
 :books: **Autodidacta**
-:pencil: **Aprendiendo constantemente Flutter y Python**
+:pencil: **Aprendiendo constantemente *
 
 
