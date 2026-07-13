@@ -7,7 +7,7 @@ Estudiante de 5.º año de la **Licenciatura en Informática Educativa en la Uni
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-*   **Frontend Mobile:** Flutter & Dart (Android / iOS / Web)
+*   **Frontend Mobile:** Flutter & Dart (Android / iOS)
 *   **Inteligencia Artificial aplicada:** Vibe Coding (Google AI Studio / Gemini API) | Uso Ético de la IA
 *   **Backend & Lógica: API oculta y WhatsApp.
 *   **Bases de Datos & Persistencia:** SQLite (`sqflite`),  Gestión y Administración de BD Relacionales y No Relacionales
