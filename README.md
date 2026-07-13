@@ -1,11 +1,12 @@
-# 👋 ¡Hola! Soy un Desarrollador Móvil Multiplataforma enfocado en Flutter
+# 👋 ¡Hola! 
+Soy Regina Sorto,
+Desarrollador Móvil Multiplataforma enfocado en Flutter
 
 Estudiante de 5.º año de la **Licenciatura en Informática Educativa en la Universidad de El Salvador (UES)**. Combino fundamentos sólidos de ingeniería de software con metodologías de desarrollo acelerado mediante Inteligencia Artificial (**Vibe Coding**). Mi objetivo es transformar ideas complejas en aplicaciones móviles fluidas, seguras y que impacten en el mercado.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-
 *   **Frontend Mobile:** Flutter & Dart (Android / iOS / Web)
 *   **Inteligencia Artificial aplicada:** Vibe Coding (Google AI Studio / Gemini API) | Uso Ético de la IA
 *   **Backend & Lógica: API oculta y WhatsApp.
@@ -47,23 +48,54 @@ Aplicación móvil multiplataforma para el sector agrícola utiliza IA para iden
 ## 📚 Educación, Cursos y Certificaciones
 
 *   🎓 Licenciatura en Informática Educativa (5.º Año - En curso) | Universidad de El Salvador (UES).
-*   
-*   📊 Datos y Business Intelligence: Administrador de Bases de Datos Relacionales
-     -Administrador de Bases de Datos Relacionales y No Relacionales, Business Intelligence: Oportunidades y Utilidades.
-*   💻 Ingeniería de Software & Calidad: Fundamentos de Ingeniería de Software, Fundamentos de Pruebas de Software (QA Testing), Control de Versiones con Git y GitHub.
-*   💼 Estrategia Comercial & Soft Skills:** Tu Negocio en Internet, Tus Clientes en Internet, Protocolos de Atención y Servicio al Cliente.
-*   🤖 Especialización Móvil & IA: Flutter Multiplataforma, Vibe Coding con Google AI Studio, Uso Ético de la IA.
+*   📊 Datos y Business Intelligence:
+*   -Administrador de bases de datos
+https://drive.google.com/file/d/1_RFnTCtCt9cDHbZWMQe2Tgju6q4ekbiQ/view?usp=sharing
+*   -Administrador de bases de datos relacionales
+https://drive.google.com/file/d/1TQgUn4luuEqYjCikDQMFW-daVdxx3Qqg/view?usp=sharing
+*   -Administrador de bases de datos no relacionales
+https://drive.google.com/file/d/1RWfLgjNwf7u8MEBdydnhcpGBspXStNkl/view?usp=sharing
+*   -Curso de Toma de Decisiones Basadas en Datos
+https://drive.google.com/file/d/1GTNIGmKdImQwYJeY3BlMuCZLMuMkeIAy/view?usp=sharing
+*   -Curso de Business Intelligence: Utilidad y Áreas de Oportunidad
+https://drive.google.com/file/d/17hZP4Fbueg48pFp-J8cNO_hcArRFPLMb/view?usp=sharing
 
-## 📚 Educación y Certificaciones
-* 🎓 **Licenciatura en Informática Educativa** | Universidad de El Salvador (5.º Año)
-* 🤖 **Flutter Multiplataforma** | [Ver Certificado](./certificados/certificado-flutter.pdf)
-* 📊 **Administrador de Bases de Datos** | [Ver Certificado](./certificados/certificado-bd.pdf)
-*
+*   💻 Ingeniería de Software & Calidad:
+*   -Lógica de programación https://drive.google.com/file/d/1Ul34Fd1C2XB_HSbAFicrmXs83vqbbEeA/view?usp=sharing
+*   -Curso de Fundamentos de Ingeniería de Software
+https://drive.google.com/file/d/1ikJZH9BT1d1h1gZ3WNnCMpki9IaFWVVd/view?usp=sharing
+*   -Curso de Git y GitHub
+https://drive.google.com/file/d/1J7te2ugPEnPaM9GPK5VvkZCCCmEwhip2/view?usp=sharing
+*   -Curso de Fundamentos de Pruebas de Software
+https://drive.google.com/file/d/1U4oBN_o3GNF5jJNYXbZ0gTHPzCgWAvPF/view?usp=sharing
+
+*   💼 Estrategia Comercial & Soft Skills:
+*   -Protocolos de atención y servicio
+https://drive.google.com/file/d/1oU2KPIOjSjZrqbFI_WTFWznR_azMmlZO/view?usp=sharing
+*   -Tu negocio en Internet
+https://drive.google.com/file/d/1gpxf-P0GMxF4bRzPlagjXfkYjRJ9MO0t/view?usp=sharing
+*   -Tus Clientes en Internet
+https://drive.google.com/file/d/1lUMi-NdzxsgBXHej1UWCPxXprN6ABcVs/view?usp=sharing
+*   -Curso de Investigacion de Mercados y tendencias.
+https://drive.google.com/file/d/1JCpY8cTdMe2Pp9vKb_0wHtH85LuPxKaF/view?usp=sharing
+
+
+*   🤖 Especialización Móvil & IA:
+*   -Pensamiento crítico en la era de la IA. 
+https://drive.google.com/file/d/1s8YMOxVyGN5pTyfrVwIjIaKbNfIuBVsu/view?usp=sharing
+HP Foundation
+*   -Curso de Flutter
+https://drive.google.com/file/d/1UpgpgmOyJTNfpzgI9q8OmL0QqNUJ0CRh/view?usp=sharing
+
+*   -Curso de Vibe Coding para Crear Apps sin Programar con Google AI Studio
+https://drive.google.com/file/d/1NW4FzkhDPY2ilkOa5hhhGkbtq8vV5fmY/view?usp=sharing
+
+
 ---
 
 ## 📫 Conectemos
 
-*   **Correo de Contacto:** [TU_CORREO_ELECTRÓNICO]
+*   **Correo de Contacto:**ocupadotrabajador2@gmail.com 
 *   *Disponible para posiciones como Desarrollador Flutter Junior y proyectos Freelance de digitalización y automatización de negocios.*
 
 ---
