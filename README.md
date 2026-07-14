@@ -96,6 +96,6 @@ https://drive.google.com/file/d/1NW4FzkhDPY2ilkOa5hhhGkbtq8vV5fmY/view?usp=shari
 ## 📫 Conectemos
 
 *   **Correo de Contacto:**ocupadotrabajador2@gmail.com 
-*   *Disponible para posiciones como Desarrollador Flutter Junior y proyectos Freelance de digitalización y automatización de negocios.*
+*   *Disponible para posiciones remotas como Desarrollador Flutter Junior y proyectos Freelance de digitalización y automatización de negocios.*
 
 ---
