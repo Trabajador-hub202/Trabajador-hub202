@@ -38,7 +38,7 @@ Estudiante de 5.º año de la **Licenciatura en Informática Educativa en la Uni
 *   **Componentes Clave:** Autenticación de usuarios híbrida. Motor de recomendaciones dinámicas basadas en el clima y el rubro del negocio del usuario utilizando LLMs. Arquitectura modular con persistencia offline de favoritos en SQLite y funciones estrictas de borrado de cuenta.
 *   *Tecnologías:* Flutter, Dart, Google AI Studio (Gemini API), SQLite.
 
-### 🌿 Agroasistente
+### 🌿 4. Agroasistente
 Aplicación móvil multiplataforma para el sector agrícola utiliza IA para identificar la patologías vegetales y sugerir tratamientos específicos.
 *   **📥 Instalar APK en Android: https://github.com/Trabajador-hub202/Agroasistente/releases/tag/v1.0.0**
 *   **🎥 Ver Video Demo https://drive.google.com/file/d/1lILm8J0SXwBZXNzlCYb1MjP-dxuAmR-A/view?usp=sharing**
