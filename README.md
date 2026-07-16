@@ -1,9 +1,8 @@
-# 👋 ¡Hola! 
-Soy Regina Sorto,
-Desarrollador Móvil Freelance.
+# ¡Hola! Soy Regina Sorto 👋
 
-Combino fundamentos sólidos de ingeniería de software con metodologías de desarrollo acelerado mediante Inteligencia Artificial (**Vibe Coding**). Mi objetivo es transformar ideas complejas en aplicaciones móviles fluidas, seguras y que impacten en el mercado.
+Soy *Desarrollador Mobile especializado en el ecosistema Flutter & Dart*. Me dedico a desplegar soluciones de software de grado comercial (E-Commerce, automatización de pedidos y sistemas en tiempo real) enfocadas en resolver problemas reales de negocio y optimizar la conversión de ventas.
 
+Actualmente opero de forma independiente como *Software Engineer Freelance*, desarrollando productos de software de alta calidad y rendimiento para el sector comercial a nivel internacional.
 ---
 
 ## 🛠️ Tecnologías y Herramientas
@@ -14,36 +13,22 @@ Combino fundamentos sólidos de ingeniería de software con metodologías de des
 *   **Calidad & Flujo de Trabajo:** Git, GitHub, Fundamentos de Pruebas de Software (QA/Testing), Ingeniería de Software.
 
 ---
-
-## 🚀 Portafolio de Proyectos Destacados
-
-### 📊 1. Cuentaclientes – Inteligencia Comercial Offline
-*App móvil híbrida de Business Intelligence para optimización de comercios locales.*
-*   **📥 Instalar APK en Android: https://github.com/Trabajador-hub202/cuentaclientes/releases/tag/v1.0.0
-*   **🎥 Ver Video Demo  https://drive.google.com/file/d/1am_7sBolzMBbdaY6JaMTbsvblALWPGUY/view?usp=sharing**
-*   **Componentes Clave:** Persistencia relacional local pesada con SQLite. Consultas de agregación avanzadas para reportes e historial de los últimos 15 días correlacionados con el factor climático. Panel de administración visual protegido con control de acceso por contraseña.
-*   *Tecnologías:* Flutter, Dart, SQLite (`sqflite`), `fl_chart`, Git.
-
-### 🦁 2. App de E-Commerce 
+### 📊 En qué estoy trabajando actualmente
+*   *La Casa del León:* Ecosistema móvil híbrido de comercio electrónico con integraciones asíncronas para la automatización de pedidos en tiempo real.
+*   Consultoría técnica y optimización de flujos de checkout para negocios locales y extranjeros.
+### 🦁 App de E-Commerce 
 *Solución de catálogo digital e integración externa basada en un brief de negocio real.*
 *   **📥 Instalar APK en Android: https://github.com/Trabajador-hub202/App-de-E-commerce/releases/tag/v1.0.0
 *   **🎥 Ver Video Demo https://drive.google.com/file/d/1uWi2z8shz74zNqFleKgIv6LkSBy3Fqs8/view?usp=sharing**
 *   **Componentes Clave:** Carrito de compras dinámico y reactivo optimizado en memoria. Módulo de validación estricta de formularios en tiempo real (evita campos vacíos). Integración de API de WhatsApp mediante Deep Linking con codificación de texto plano para el envío automático de pedidos estructurados.
 *   *Tecnologías:* Flutter, Dart, API de WhatsApp (`url_launcher`).
+---
 
-### 🌤️ 3. ClimaApp
-*Aplicación para ofrecer recomendaciones contextuales de negocio basadas en el clima, gestionando la persistencia de datos de forma híbrida*
-*   **📥 Instalar APK en Android: https://github.com/Trabajador-hub202/ClimaApp/releases/tag/v1.0.0
-*   **🎥 Ver Video Demo:  https://drive.google.com/file/d/1H-xkIfDBZLKbA4Iuh8wi_SM20o0Bguq_/view?usp=sharing
-*   **Componentes Clave:** Autenticación de usuarios híbrida. Motor de recomendaciones dinámicas basadas en el clima y el rubro del negocio del usuario utilizando LLMs. Arquitectura modular con persistencia offline de favoritos en SQLite y funciones estrictas de borrado de cuenta.
-*   *Tecnologías:* Flutter, Dart, Google AI Studio (Gemini API), SQLite.
+📬 *¿Quieres automatizar tu negocio o colaborar en un proyecto?*  
+¡Conéctate conmigo! 
+*   **Correo de Contacto:** regina.sorto.mendoza@gmail.com
+*   *Disponible para posiciones remotas como Desarrollador Flutter Junior y proyectos Freelance de digitalización y automatización de negocios.*
 
-### 🌿 4. Agroasistente
-Aplicación móvil multiplataforma para el sector agrícola utiliza IA para identificar la patologías vegetales y sugerir tratamientos específicos.
-*   **📥 Instalar APK en Android: https://github.com/Trabajador-hub202/Agroasistente/releases/tag/v1.0.0**
-*   **🎥 Ver Video Demo https://drive.google.com/file/d/1lILm8J0SXwBZXNzlCYb1MjP-dxuAmR-A/view?usp=sharing**
-*   **Componentes Clave:** Captura Híbrida de Medios: Integración nativa para captura fotográfica directa o importación desde la galería del sistema, Utiliza el modelo de última generación de Google, Gemini 2.5 Flash, para escanear y procesar de forma inmediata, identifica patologías comunes (como infecciones fúngicas de mildiú), plagas succionadoras (como arañuela roja o áfidos) y deficiencias nutricionales severas y genera recomendaciones farmacológicas detalladas. Incluye módulo reactivo que genera recomendaciones personalizadas de fertilización para maximizar el rendimiento del cultivo.
-*   *Tecnologías:* Flutter, Dart, Google AI Studio (Gemini API 2.5 flash), acceso nativo a camara y galeria de fotos.
 
 ## 📚 Educación, Cursos y Certificaciones
 *   🎓 Licenciatura en Informática Educativa (5.º Año - En curso) | Universidad de El Salvador (UES).
@@ -78,23 +63,13 @@ https://drive.google.com/file/d/1lUMi-NdzxsgBXHej1UWCPxXprN6ABcVs/view?usp=shari
 *   -Curso de Investigacion de Mercados y tendencias.
 https://drive.google.com/file/d/1JCpY8cTdMe2Pp9vKb_0wHtH85LuPxKaF/view?usp=sharing
 
-
 *   🤖 Especialización Móvil & IA:
 *   -Pensamiento crítico en la era de la IA. 
 https://drive.google.com/file/d/1s8YMOxVyGN5pTyfrVwIjIaKbNfIuBVsu/view?usp=sharing
 HP Foundation
 *   -Curso de Flutter
 https://drive.google.com/file/d/1UpgpgmOyJTNfpzgI9q8OmL0QqNUJ0CRh/view?usp=sharing
-
 *   -Curso de Vibe Coding para Crear Apps sin Programar con Google AI Studio
 https://drive.google.com/file/d/1NW4FzkhDPY2ilkOa5hhhGkbtq8vV5fmY/view?usp=sharing
 
 
----
-
-## 📫 Conectemos
-
-*   **Correo de Contacto:**ocupadotrabajador2@gmail.com 
-*   *Disponible para posiciones remotas como Desarrollador Flutter Junior y proyectos Freelance de digitalización y automatización de negocios.*
-
----
