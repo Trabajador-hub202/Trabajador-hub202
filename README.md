@@ -1,8 +1,8 @@
 # 👋 ¡Hola! 
 Soy Regina Sorto,
-Desarrollador Móvil Multiplataforma enfocado en Flutter
+Desarrollador Móvil Freelance.
 
-Estudiante de 5.º año de la **Licenciatura en Informática Educativa en la Universidad de El Salvador (UES)**. Combino fundamentos sólidos de ingeniería de software con metodologías de desarrollo acelerado mediante Inteligencia Artificial (**Vibe Coding**). Mi objetivo es transformar ideas complejas en aplicaciones móviles fluidas, seguras y que impacten en el mercado.
+Combino fundamentos sólidos de ingeniería de software con metodologías de desarrollo acelerado mediante Inteligencia Artificial (**Vibe Coding**). Mi objetivo es transformar ideas complejas en aplicaciones móviles fluidas, seguras y que impacten en el mercado.
 
 ---
 
@@ -46,7 +46,6 @@ Aplicación móvil multiplataforma para el sector agrícola utiliza IA para iden
 *   *Tecnologías:* Flutter, Dart, Google AI Studio (Gemini API 2.5 flash), acceso nativo a camara y galeria de fotos.
 
 ## 📚 Educación, Cursos y Certificaciones
-
 *   🎓 Licenciatura en Informática Educativa (5.º Año - En curso) | Universidad de El Salvador (UES).
 *   📊 Datos y Business Intelligence:
 *   -Administrador de bases de datos
