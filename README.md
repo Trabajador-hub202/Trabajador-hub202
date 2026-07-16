@@ -3,6 +3,7 @@
 Soy *Desarrollador Mobile especializado en el ecosistema Flutter & Dart*. Me dedico a desplegar soluciones de software de grado comercial (E-Commerce, automatización de pedidos y sistemas en tiempo real) enfocadas en resolver problemas reales de negocio y optimizar la conversión de ventas.
 
 Actualmente opero de forma independiente como *Software Engineer Freelance*, desarrollando productos de software de alta calidad y rendimiento para el sector comercial a nivel internacional.
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
