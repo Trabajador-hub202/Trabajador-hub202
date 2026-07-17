@@ -15,15 +15,7 @@ Actualmente opero de forma independiente como *Software Engineer Freelance*, des
 
 ---
 ### 📊 En qué estoy trabajando actualmente
-*   *La Casa del León:* Ecosistema móvil híbrido de comercio electrónico con integraciones asíncronas para la automatización de pedidos en tiempo real.
-*   Consultoría técnica y optimización de flujos de checkout para negocios locales y extranjeros.
-### 🦁 App de E-Commerce 
-*Solución de catálogo digital e integración externa basada en un brief de negocio real.*
-*   **📥 Instalar APK en Android: https://github.com/Trabajador-hub202/App-de-E-commerce/releases/tag/v1.0.0
-*   **🎥 Ver Video Demo https://drive.google.com/file/d/1uWi2z8shz74zNqFleKgIv6LkSBy3Fqs8/view?usp=sharing**
-*   **Componentes Clave:** Carrito de compras dinámico y reactivo optimizado en memoria. Módulo de validación estricta de formularios en tiempo real (evita campos vacíos). Integración de API de WhatsApp mediante Deep Linking con codificación de texto plano para el envío automático de pedidos estructurados.
-*   *Tecnologías:* Flutter, Dart, API de WhatsApp (`url_launcher`).
----
+TuApp https://trabajador-hub202.github.io/tuapp/#inicio Una plataforma donde ofrezco Apps Moviles y Web de grado comercial.
 
 📬 *¿Quieres automatizar tu negocio o colaborar en un proyecto?*  
 ¡Conéctate conmigo! 
